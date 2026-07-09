@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Taha Sohail 👋</h1>
-<h3 align="center">Software Engineering Student • Front-End & AI/ML Enthusiast</h3>
+<h3 align="center">Software Engineering Student • Professional Full-Stack Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://my-portfolio-4ecr.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/taha-sohail-7b03b8320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🤖 Also working as an **AI/ML Intern** at **ORBIT-I**
 - 🧑‍💼 Officer at the **FAST Computing Society (FCS)**
 - 🌱 Exploring full-stack development, AI-integrated web apps, and database systems
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **tahasohail85@gmail.com**
 
 ---
 
