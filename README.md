@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahaSohail-Goat&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaSohail-Goat&layout=compact" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=TahaSohail-Goat&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=TahaSohail-Goat&layout=compact" />
 </p>
 
 <p align="center">
