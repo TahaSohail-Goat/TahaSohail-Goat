@@ -1,86 +1,154 @@
-# Hi 👋 I'm Taha Sohail
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Taha%20Sohail&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI/ML%20Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Taha%20Sohail&fontSize=48&fontColor=ffffff&animation=twinkling&desc=BS%20Software%20Engineering%20Student%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full-Stack+Applications;MERN+Stack+Developer;AI%2FML+Engineer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Full-Stack+Applications;RAG+%26+LLM+Systems+Engineer;MERN+Stack+%2B+Next.js+Developer;AI%2FML+Intern+%40+ORBIT-I"/>
 </p>
 
 <p align="center">
-<a href="https://my-portfolio-4ecr.vercel.app">Portfolio</a> •
+<a href="https://tahasohail.vercel.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/taha-sohail-7b03b8320/">LinkedIn</a> •
 <a href="mailto:tahasohail85@gmail.com">Email</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=TahaSohail-Goat&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TahaSohail-Goat&color=38bdf8&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/TahaSohail-Goat?label=Followers&style=for-the-badge&color=38bdf8&logo=github"/>
+</p>
 
-## 👨‍💻 Who Am I
+## 👨‍💻 Who I Am
 
 ```ts
 const taha = {
-  education: "BS Software Engineering @ FAST-NUCES Islamabad",
-  role: ["AI/ML Intern @ ORBIT-I","Software Engineer Intern @ FlyRank","Officer @ FAST Computing Society"],
-  expertise:["Full Stack Development","Artificial Intelligence","RAG","System Design"],
-  currentlyLearning:["LangGraph","AI Agents","Cloud","Distributed Systems"],
-  openTo:["Open Source","Internships","Freelance","Collaboration"]
+  title: "BS Software Engineering Student @ FAST-NUCES | AI/ML Intern @ ORBIT-I",
+  stack: ["React", "Next.js", "Node.js", "Express", "Python", "Django", "Flask",
+          "MongoDB", "SQL Server", "PyTorch", "LangChain", "LangGraph"],
+  launchedProjects: ["Studify", "Smart Disaster Response MIS",
+                      "Cybercrime Digital Evidence Integrity Management System",
+                      "Ocean Route Navigator"],
+  certifications: ["Google Coursera - Crash Course on Python",
+                    "Teaching Assistant, Discrete Structures - FAST-NUCES"],
+  status: "Interning @ ORBIT-I (AI/ML) & FlyRank | Officer @ FAST Computing Society",
+  openTo: ["Open Source", "Internships", "Freelance Work", "Collaboration"]
 }
 ```
 
 ## 🚀 Featured Projects
 
-### Studify
-- AI-powered MERN study platform with Local RAG, OCR, MongoDB Vector Search, JWT authentication and AI quizzes.
-- Live: https://studify-six.vercel.app
-- Code: https://github.com/TahaSohail-Goat/Studify
+### Studify — AI-Powered Study Companion
+Full-stack MERN study platform where students chat with their own notes via a custom RAG pipeline with local embeddings and MongoDB Atlas Vector Search, plus AI summaries, quizzes, and OCR for scanned documents. Ships secure auth (JWT + email OTP), rate limiting, per-user data isolation, and multi-provider LLM failover.
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=Studify&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+</p>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React |
+| Backend | Node.js, Express |
+| Database | MongoDB Atlas (Vector Search) |
+| AI/ML | Local RAG, OCR, Multi-provider LLM failover |
+| Auth | JWT, Email OTP |
+
+**Live:** https://studify-six.vercel.app • **Code:** https://github.com/TahaSohail-Goat/Studify
 
 ### Smart Disaster Response MIS
-- Next.js + Express + SQL Server disaster management platform with RBAC dashboards.
+Full-stack disaster management information system with role-based dashboards, real-time coordination, SQL Server triggers, and ACID transactions.
 
-### Cybercrime Digital Evidence Integrity Management
-- JavaFX desktop application featuring SHA-256 integrity verification and chain-of-custody tracking.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=SmartDisasterResponseMIS&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+</p>
+
+| Layer | Technology |
+|---|---|
+| Frontend | Next.js |
+| Backend | Node.js, Express.js |
+| Database | SQL Server |
+| Features | RBAC Dashboards, Triggers, ACID Transactions |
+
+**Code:** https://github.com/TahaSohail-Goat/SmartDisasterResponseMIS
+
+### Cybercrime Digital Evidence Integrity Management System
+Desktop evidence management system with SHA-256 tamper detection, immutable chain-of-custody logs, a state-machine workflow, and RBAC for three investigative roles.
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=CDIEM&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+</p>
+
+| Layer | Technology |
+|---|---|
+| Application | Java, JavaFX |
+| Database | SQL Server |
+| Security | SHA-256 Integrity Verification, Chain-of-Custody Logs |
+
+**Code:** https://github.com/TahaSohail-Goat/CDIEM
 
 ### Ocean Route Navigator
-- C++/SFML simulator implementing Dijkstra and A* with custom data structures.
+Maritime route planner using Dijkstra's and A* algorithms, built with custom priority queues and graph data structures.
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=SeaRoute-Navigator&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+</p>
+
+| Layer | Technology |
+|---|---|
+| Language | C++ |
+| Library | SFML |
+| Algorithms | Dijkstra's, A* Search |
+
+**Code:** https://github.com/TahaSohail-Goat/SeaRoute-Navigator
 
 ## 🛠 Tech Stack
 
-Languages: JavaScript • TypeScript • Python • Java • C++ • C# • SQL
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,c"/>
 
-Frontend: React • Next.js • Tailwind CSS • Vite
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css"/>
 
-Backend: Node.js • Express • Django • Flask
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask"/>
 
-Database: MongoDB • SQL Server • SQLite
+**AI / Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,mongodb,sqlite"/>
 
-AI: PyTorch • Scikit-learn • Pandas • LangChain • LangGraph • RAG
+*Also working with: SQL Server, LangChain, LangGraph, Scikit-learn, Pandas*
 
-Tools: Git • GitHub • Docker • Vercel • VS Code • Postman
+**Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TahaSohail-Goat&show_icons=true&theme=nord)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaSohail-Goat&layout=compact&theme=nord)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TahaSohail-Goat&show_icons=true&theme=nord&border_color=38bdf8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaSohail-Goat&layout=compact&theme=nord&border_color=38bdf8" height="165"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=TahaSohail-Goat&theme=nord)
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=TahaSohail-Goat&theme=nord&border=38bdf8"/>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=TahaSohail-Goat&theme=nord&no-frame=true&no-bg=true)
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=TahaSohail-Goat&theme=nord&no-frame=true&no-bg=true&row=1"/>
+</p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=TahaSohail-Goat&theme=nord)
-
-## 🏆 Highlights
-- AI/ML Intern @ ORBIT-I
-- Software Engineer Intern @ FlyRank
-- Frontend Developer Intern @ SPS
-- Officer @ FAST Computing Society
-- Teaching Assistant (Discrete Structures)
-- Google Coursera Python Certificate
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaSohail-Goat&theme=react-dark&color=38bdf8&line=38bdf8&point=ffffff&bg_color=0d1117"/>
+</p>
 
 ## 📬 Connect
-- Portfolio: https://my-portfolio-4ecr.vercel.app
-- LinkedIn: https://www.linkedin.com/in/taha-sohail-7b03b8320/
-- Email: tahasohail85@gmail.com
+
+<p align="left">
+<a href="https://tahasohail.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/taha-sohail-7b03b8320/"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tahasohail85@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
