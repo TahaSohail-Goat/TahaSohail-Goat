@@ -1,0 +1,77 @@
+name: Update README Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 3am UTC
+  workflow_dispatch:      # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=nord&border_color=38bdf8
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=nord&border_color=38bdf8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Studify pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=TahaSohail-Goat&repo=Studify&theme=nord&border_color=38bdf8
+          path: profile/pin-studify.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Smart Disaster Response MIS pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=TahaSohail-Goat&repo=SmartDisasterResponseMIS&theme=nord&border_color=38bdf8
+          path: profile/pin-smart-disaster-response-mis.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate CDIEM pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=TahaSohail-Goat&repo=CDIEM&theme=nord&border_color=38bdf8
+          path: profile/pin-cdiem.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate SeaRoute Navigator pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=TahaSohail-Goat&repo=SeaRoute-Navigator&theme=nord&border_color=38bdf8
+          path: profile/pin-searoute-navigator.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: TahaSohail-Goat
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
