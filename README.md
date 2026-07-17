@@ -40,7 +40,7 @@ const taha = {
 Full-stack MERN study platform where students chat with their own notes via a custom RAG pipeline with local embeddings and MongoDB Atlas Vector Search, plus AI summaries, quizzes, and OCR for scanned documents. Ships secure auth (JWT + email OTP), rate limiting, per-user data isolation, and multi-provider LLM failover.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=Studify&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+<img src="./profile/pin-studify.svg"/>
 </p>
 
 | Layer | Technology |
@@ -57,7 +57,7 @@ Full-stack MERN study platform where students chat with their own notes via a cu
 Full-stack disaster management information system with role-based dashboards, real-time coordination, SQL Server triggers, and ACID transactions.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=SmartDisasterResponseMIS&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+<img src="./profile/pin-smart-disaster-response-mis.svg"/>
 </p>
 
 | Layer | Technology |
@@ -73,7 +73,7 @@ Full-stack disaster management information system with role-based dashboards, re
 Desktop evidence management system with SHA-256 tamper detection, immutable chain-of-custody logs, a state-machine workflow, and RBAC for three investigative roles.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=CDIEM&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+<img src="./profile/pin-cdiem.svg"/>
 </p>
 
 | Layer | Technology |
@@ -88,7 +88,7 @@ Desktop evidence management system with SHA-256 tamper detection, immutable chai
 Maritime route planner using Dijkstra's and A* algorithms, built with custom priority queues and graph data structures.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahaSohail-Goat&repo=SeaRoute-Navigator&theme=nord&border_color=38bdf8&bg_color=0d1117"/>
+<img src="./profile/pin-searoute-navigator.svg"/>
 </p>
 
 | Layer | Technology |
@@ -126,8 +126,8 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 ## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TahaSohail-Goat&show_icons=true&theme=nord&border_color=38bdf8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaSohail-Goat&layout=compact&theme=nord&border_color=38bdf8" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
 </p>
 
 <p align="left">
@@ -135,7 +135,7 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 </p>
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=TahaSohail-Goat&theme=nord&no-frame=true&no-bg=true&row=1"/>
+<img src="./profile/trophy.svg"/>
 </p>
 
 <p align="left">
