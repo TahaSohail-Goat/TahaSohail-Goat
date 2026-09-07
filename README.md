@@ -192,7 +192,7 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 </p>
 
 <p align="left">
-<img src="./profile/trophy.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TahaSohail-Goat&theme=nord&no-frame=true&row=1&column=7"/>
 </p>
 
 <p align="left">
