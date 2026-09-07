@@ -40,7 +40,7 @@ const taha = {
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=twinkling"/>
 </p>
 
 ## 🌟 Flagship Project
@@ -88,6 +88,8 @@ mastery tracking per chapter, a deterministic day-by-day revision planner, and U
 ### Studify — AI-Powered Study Companion
 Full-stack MERN study platform where students chat with their own notes via a custom RAG pipeline with local embeddings and MongoDB Atlas Vector Search, plus AI summaries, quizzes, and OCR for scanned documents. Ships secure auth (JWT + email OTP), rate limiting, per-user data isolation, and multi-provider LLM failover.
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=38BDF8&center=false&vCenter=true&width=600&lines=Chat+with+your+own+notes+via+a+custom+RAG+pipeline;OCR+for+scanned+documents;Multi-provider+LLM+failover"/>
+
 <p align="left">
 <img src="./profile/pin-studify.svg"/>
 </p>
@@ -102,8 +104,14 @@ Full-stack MERN study platform where students chat with their own notes via a cu
 
 **Live:** https://studify-six.vercel.app • **Code:** https://github.com/TahaSohail-Goat/Studify
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=20&section=header&animation=fadeIn"/>
+</p>
+
 ### Smart Disaster Response MIS
 Full-stack disaster management information system with role-based dashboards, real-time coordination, SQL Server triggers, and ACID transactions.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=38BDF8&center=false&vCenter=true&width=600&lines=Real-time+role-based+coordination+dashboards;SQL+Server+triggers+%26+ACID+transactions"/>
 
 <p align="left">
 <img src="./profile/pin-smart-disaster-response-mis.svg"/>
@@ -118,8 +126,14 @@ Full-stack disaster management information system with role-based dashboards, re
 
 **Code:** https://github.com/TahaSohail-Goat/SmartDisasterResponseMIS
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=20&section=header&animation=fadeIn"/>
+</p>
+
 ### Cybercrime Digital Evidence Integrity Management System
 Desktop evidence management system with SHA-256 tamper detection, immutable chain-of-custody logs, a state-machine workflow, and RBAC for three investigative roles.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=38BDF8&center=false&vCenter=true&width=600&lines=SHA-256+tamper+detection;Immutable+chain-of-custody+logs"/>
 
 <p align="left">
 <img src="./profile/pin-cdiem.svg"/>
@@ -133,8 +147,14 @@ Desktop evidence management system with SHA-256 tamper detection, immutable chai
 
 **Code:** https://github.com/TahaSohail-Goat/CDIEM
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=20&section=header&animation=fadeIn"/>
+</p>
+
 ### Ocean Route Navigator
 Maritime route planner using Dijkstra's and A* algorithms, built with custom priority queues and graph data structures.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=38BDF8&center=false&vCenter=true&width=600&lines=Dijkstra's+%26+A*+pathfinding;Custom+priority+queues+%26+graph+structures"/>
 
 <p align="left">
 <img src="./profile/pin-searoute-navigator.svg"/>
@@ -149,7 +169,7 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 **Code:** https://github.com/TahaSohail-Goat/SeaRoute-Navigator
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=twinkling"/>
 </p>
 
 ## 🛠 Tech Stack
@@ -207,8 +227,12 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/TahaSohail-Goat/TahaSohail-Goat/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### 🧊 3D Contribution Calendar
+
+<img alt="Rotating 3D GitHub contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=twinkling"/>
 </p>
 
 ## 📬 Connect
