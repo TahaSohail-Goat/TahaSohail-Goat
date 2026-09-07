@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://tahasohail.vercel.app/">Portfolio</a> •
+<a href="https://tahasohail.me">Portfolio</a> •
 <a href="https://www.linkedin.com/in/taha-sohail-7b03b8320/">LinkedIn</a> •
 <a href="mailto:tahasohail85@gmail.com">Email</a>
 </p>
@@ -22,6 +22,8 @@
 </p>
 
 ## 👨‍💻 Who I Am
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=38BDF8&center=false&vCenter=true&width=750&lines=%F0%9F%94%AD+Currently+building+Sabaq+AI;%F0%9F%8C%B1+Learning+LangGraph+multi-agent+systems;%E2%9A%A1+Fun+fact%3A+I+ship+production+RAG+pipelines+end-to-end"/>
 
 ```ts
 const taha = {
@@ -40,7 +42,7 @@ const taha = {
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=38bdf8&height=40&section=header"/>
 </p>
 
 ## 🌟 Flagship Project
@@ -197,7 +199,7 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&height=40&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=38bdf8&height=40&section=header"/>
 </p>
 
 ## 📈 GitHub Stats
@@ -238,7 +240,7 @@ Maritime route planner using Dijkstra's and A* algorithms, built with custom pri
 ## 📬 Connect
 
 <p align="left">
-<a href="https://tahasohail.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://tahasohail.me"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/taha-sohail-7b03b8320/"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tahasohail85@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
