@@ -29,6 +29,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Sabaq AI pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=TahaSohail-Goat&repo=SabaqAI&theme=nord&border_color=1BB56B
+          path: profile/pin-sabaqai.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Studify pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
