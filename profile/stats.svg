@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taha Sohail &#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 1036, Total PRs: 290, Total Issues: 175, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 1038, Total PRs: 290, Total Issues: 175, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.96487819800805;
+        stroke-dashoffset: 83.9517763610178;
       }
     }
   
